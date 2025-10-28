@@ -55,18 +55,18 @@ plt.tight_layout()
 plt.show()
 ~~~
 Output Waveform
-<img width="628" height="469" alt="image" src="https://github.com/user-attachments/assets/8e1aef40-94b9-402e-b2c5-c409b35f9384" />
 
+<img width="628" height="469" alt="image" src="https://github.com/user-attachments/assets/8e1aef40-94b9-402e-b2c5-c409b35f9384" />
 
 
 Tabular Column
 
+![WhatsApp Image 2025-10-28 at 10 34 54_06865c26](https://github.com/user-attachments/assets/93a40f58-87ef-4639-887a-3e666f577305)
 
 
 Calculation
 
-
-
+![WhatsApp Image 2025-10-28 at 10 43 59_db9a18ab](https://github.com/user-attachments/assets/69cba699-fba5-443d-a01c-afe76f9b801a)
 
 Result
 
