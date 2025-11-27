@@ -1,4 +1,4 @@
-# FM-using-Python
+ # FM-using-Python
 
 Aim
 
@@ -61,12 +61,13 @@ Output Waveform
 
 Tabular Column
 
-![WhatsApp Image 2025-10-28 at 10 34 54_06865c26](https://github.com/user-attachments/assets/93a40f58-87ef-4639-887a-3e666f577305)
+![WhatsApp Image 2025-11-27 at 19 09 33_678a6f95](https://github.com/user-attachments/assets/78eb9e7c-021c-4679-ad7a-888a194971af)
 
 
 Calculation
 
-![WhatsApp Image 2025-10-28 at 10 43 59_db9a18ab](https://github.com/user-attachments/assets/69cba699-fba5-443d-a01c-afe76f9b801a)
+![WhatsApp Image 2025-11-27 at 19 09 49_7dcdf950](https://github.com/user-attachments/assets/2b543110-2775-46eb-8f87-4af3bf7669d0)
+
 
 Result
 
